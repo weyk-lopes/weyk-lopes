@@ -1,7 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Weyk%20Lopes&fontSize=45&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Weyk%20Lopes&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Weyk+Lopes;Computer+Engineering+Student;Backend+Developer;AI+Enthusiast)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Weyk+Lopes;Computer+Engineering+Student;Backend+Developer;AI+Enthusiast"/>
+</p>
 
+<p align="center">
+  <a href="https://www.instagram.com/lopesweyk_10">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ## 🚀 Linguagens e Tecnologias
 
