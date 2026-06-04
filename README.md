@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias 
 
 ### 💻 Linguagens
 <p>
