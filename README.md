@@ -68,7 +68,7 @@ mas todo mundo usa. APIs robustas, lógica limpa e sistemas escaláveis.
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050a0f,50:00e5ff,100:050a0f&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-**Weyk Lopes** · Backend Developer · Teresina, PI
+**Weyk Lopes** · Backend Developer · Teresina - PI
 
 [![GitHub](https://img.shields.io/badge/GitHub-weyk--lopes-00e5ff?style=flat-square&logo=github&logoColor=white)](https://github.com/weyk-lopes)
 
