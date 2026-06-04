@@ -47,42 +47,9 @@ mas todo mundo usa. APIs robustas, lógica limpa e sistemas escaláveis.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-<!-- LINGUAGENS -->
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-
-<!-- FRAMEWORKS -->
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-
-<!-- BANCOS DE DADOS -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=weyk-lopes&show_icons=true&theme=tokyonight&title_color=00e5ff&icon_color=ff6b35&text_color=c8d8e8&bg_color=0d1620&border_color=1a2d42&count_private=true&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weyk-lopes&layout=compact&theme=tokyonight&title_color=00e5ff&text_color=c8d8e8&bg_color=0d1620&border_color=1a2d42&langs_count=6" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=weyk-lopes&theme=dark&background=0d1620&border=1a2d42&stroke=00e5ff&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=c8d8e8&currStreakLabel=00e5ff&sideLabels=4a6a8a&dates=4a6a8a)
-
-</div>
 
 
 
