@@ -31,14 +31,12 @@ mas todo mundo usa. APIs robustas, lógica limpa e sistemas escaláveis.
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   
     </td>
   </tr>
 </table>
