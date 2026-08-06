@@ -1,1 +1,1 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Estudando+IA+%7C+Python+%7C+Django+%7C+JS;Backend+Developer+em+formação;Teresina%2C+PI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Weyk+Lopes;Estudando+IA+%7C+Python+%7C+Django+%7C+JS;Backend+Developer+em+formacao;Teresina%2C+PI" alt="Typing SVG" />
