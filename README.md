@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FFF&height=180&section=header&text=Weyk%20Lopes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 
- AC ENG DE COMPUTAÇÃO COM ÊNFASE EM INTELIGÊNCIA ARTIFICIAL (IA)
+
 
 
 
