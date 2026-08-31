@@ -1,1 +1,22 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Weyk+Lopes;Estudando+IA+%7C+Python+%7C+Django+%7C+JS;Backend+Developer+em+formacao;Teresina%2C+PI" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FFF&height=180&section=header&text=Weyk%20Lopes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+
+ AC ENG DE COMPUTAÇÃO COM ÊNFASE EM INTELIGÊNCIA ARTIFICIAL (IA)
+
+
+
+---
+
+### 🚀 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=python,nextjs,nodejs,postgres" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
